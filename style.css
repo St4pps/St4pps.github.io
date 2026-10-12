@@ -1,0 +1,16 @@
+#title{
+    font-weight: bold;
+    color: rgb(141, 141, 224); 
+    border: 20px solid rgba(57, 4, 4, 0.312);
+    border-radius: 100px;
+    inline-size: 200px;
+    padding: 5px;
+    font: 20px bold;
+    font-size: 50px;
+}
+
+.links:hover{
+    color: rgb(141, 141, 224);
+
+}
+
